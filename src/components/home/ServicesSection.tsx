@@ -6,10 +6,10 @@ const ServicesSection = () => {
   // Function to get service background images
   const getServiceImage = (index: number) => {
     const images = [
-      '/lovable-uploads/person-computer.jpg',
-      '/lovable-uploads/operating-computer-anime.jpg',
-      '/lovable-uploads/dark-shades-using-computer.jpg',
-      '/lovable-uploads/support-arm.jpg'
+      '/images/person-computer.jpg',
+      '/images/operating-computer-anime.jpg',
+      '/images/dark-shades-using-computer.jpg',
+      '/images/support-arm.jpg'
     ];
     return images[index] || images[0];
   };

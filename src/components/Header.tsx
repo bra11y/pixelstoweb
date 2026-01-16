@@ -137,7 +137,7 @@ const Header = () => {
               onClick={closeMenu}
             >
               <img
-                src="/lovable-uploads/PTW-re.png"
+                src="/images/PTW-re.png"
                 alt="PixelsToWeb"
                 className="h-8 w-auto"
               />

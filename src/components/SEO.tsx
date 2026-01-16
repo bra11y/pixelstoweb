@@ -16,7 +16,7 @@ const SEO = ({
   description = "Canadian web design agency specializing in custom website development. We create beautiful, functional websites for businesses across Canada. Professional design, modern development, exceptional results.",
   keywords = "Canadian web design agency, website development Canada, custom websites, web design Toronto, web development agency, responsive web design, WordPress development, Shopify development",
   canonical,
-  image = "/lovable-uploads/PixelsToWeb-logo.png",
+  image = "/images/PTW-re.png",
   type = "website",
   noindex = false,
   schemaData

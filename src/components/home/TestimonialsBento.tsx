@@ -9,7 +9,7 @@ const TestimonialsBento = () => {
       author: "Sarah Chen",
       role: "VP Engineering, TechCorp",
       rating: 5,
-      image: "/lovable-uploads/hearing-aid-person-face.jpg"
+      image: "/images/hearing-aid-person-face.jpg"
     },
     {
       quote: "The best accessibility partner we've ever worked with. Professional, thorough, and they actually understand the business impact.",

@@ -61,7 +61,7 @@ const BlogPostPage = () => {
       "name": "PixelsToWeb",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://pixelstoweb.com/logo.png"
+        "url": "https://pixelstoweb.com/images/PTW-re.png"
       }
     },
     "datePublished": post.date,

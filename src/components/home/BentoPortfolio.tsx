@@ -9,7 +9,7 @@ const BentoPortfolio = () => {
       title: 'E-Commerce Platform',
       category: 'Shopify Development',
       description: 'Building a digital foundation that reflects a commitment to timeless, quality design.',
-      image: '/lovable-uploads/person-computer.jpg',
+      image: '/images/person-computer.jpg',
       size: 'large', // spans 2 columns
       link: '/portfolio'
     },
@@ -18,7 +18,7 @@ const BentoPortfolio = () => {
       title: 'Corporate Website',
       category: 'WordPress Development',
       description: 'Crafting alluring digital content for Nigeria\'s leading financial services.',
-      image: '/lovable-uploads/operating-computer-anime.jpg',
+      image: '/images/operating-computer-anime.jpg',
       size: 'medium',
       link: '/portfolio'
     },
@@ -27,7 +27,7 @@ const BentoPortfolio = () => {
       title: 'Brand Identity',
       category: 'Brand Design',
       description: 'Enhancing a vision of beauty redefined with polished visual storytelling.',
-      image: '/lovable-uploads/dark-shades-using-computer.jpg',
+      image: '/images/dark-shades-using-computer.jpg',
       size: 'medium',
       link: '/portfolio'
     },
@@ -36,7 +36,7 @@ const BentoPortfolio = () => {
       title: 'Mobile App Design',
       category: 'UI/UX Design',
       description: 'Creating seamless mobile experiences for modern Nigerian consumers.',
-      image: '/lovable-uploads/person-computer.jpg',
+      image: '/images/person-computer.jpg',
       size: 'small',
       link: '/portfolio'
     },
@@ -45,7 +45,7 @@ const BentoPortfolio = () => {
       title: 'Digital Marketing',
       category: 'SEO & Marketing',
       description: 'Amplifying online presence through strategic digital marketing.',
-      image: '/lovable-uploads/operating-computer-anime.jpg',
+      image: '/images/operating-computer-anime.jpg',
       size: 'small',
       link: '/portfolio'
     }

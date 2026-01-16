@@ -18,7 +18,7 @@ interface GalleryImage {
 const lifestyleImages: GalleryImage[] = [
   {
     id: '1',
-    src: '/lovable-uploads/person-computer.jpg',
+    src: '/images/person-computer.jpg',
     alt: 'Professional developer working on laptop',
     title: 'Modern Development Workspace',
     description: 'Our team creates innovative solutions in a collaborative environment',
@@ -27,7 +27,7 @@ const lifestyleImages: GalleryImage[] = [
   },
   {
     id: '2',
-    src: '/lovable-uploads/operating-computer-anime.jpg',
+    src: '/images/operating-computer-anime.jpg',
     alt: 'Designer working on creative projects',
     title: 'Creative Design Process',
     description: 'Bringing brands to life through thoughtful design and user experience',
@@ -36,7 +36,7 @@ const lifestyleImages: GalleryImage[] = [
   },
   {
     id: '3',
-    src: '/lovable-uploads/dark-shades-using-computer.jpg',
+    src: '/images/dark-shades-using-computer.jpg',
     alt: 'Professional in modern office setting',
     title: 'Professional Excellence',
     description: 'Dedicated professionals delivering world-class digital solutions',
@@ -45,7 +45,7 @@ const lifestyleImages: GalleryImage[] = [
   },
   {
     id: '4',
-    src: '/lovable-uploads/anime-hearing.jpg',
+    src: '/images/anime-hearing.jpg',
     alt: 'Team collaboration and communication',
     title: 'Client Consultation',
     description: 'Understanding client needs through effective communication',
@@ -54,7 +54,7 @@ const lifestyleImages: GalleryImage[] = [
   },
   {
     id: '5',
-    src: '/lovable-uploads/speaking-over-the-phone.jpg',
+    src: '/images/speaking-over-the-phone.jpg',
     alt: 'Professional phone consultation',
     title: 'Client Support Excellence',
     description: 'Providing exceptional support and guidance to our clients',
@@ -63,7 +63,7 @@ const lifestyleImages: GalleryImage[] = [
   },
   {
     id: '6',
-    src: '/lovable-uploads/support-arm.jpg',
+    src: '/images/support-arm.jpg',
     alt: 'Supportive team environment',
     title: 'Collaborative Culture',
     description: 'Building strong partnerships and supporting each other\'s growth',

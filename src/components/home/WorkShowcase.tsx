@@ -6,10 +6,10 @@ const WorkShowcase = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const motorcycleFrames = [
-    '/lovable-uploads/frame-4721.png',
-    '/lovable-uploads/frame-4722.png',
-    '/lovable-uploads/frame-4723.png',
-    '/lovable-uploads/frame-4724.png'
+    '/images/frame-4721.png',
+    '/images/frame-4722.png',
+    '/images/frame-4723.png',
+    '/images/frame-4724.png'
   ];
 
   // Auto-rotate carousel every 5 seconds

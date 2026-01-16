@@ -152,8 +152,8 @@ export default {
         'body': ['"Inclusive Sans"', 'sans-serif'],
       },
       backgroundImage: {
-        'organic-pattern': "url('/lovable-uploads/4b10173c-2952-43ac-8933-1d39bb8de7e6.png')",
-        'wave-pattern': "url('/lovable-uploads/wave-bg.svg')",
+        'organic-pattern': "url('/images/4b10173c-2952-43ac-8933-1d39bb8de7e6.png')",
+        'wave-pattern': "url('/images/wave-bg.svg')",
       }
     }
   },

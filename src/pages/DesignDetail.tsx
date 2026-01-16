@@ -19,10 +19,10 @@ export const designProjects = {
       'High-performance image loading'
     ],
     images: [
-      '/lovable-uploads/frame-4721.png',
-      '/lovable-uploads/frame-4722.png',
-      '/lovable-uploads/frame-4723.png',
-      '/lovable-uploads/frame-4724.png'
+      '/images/frame-4721.png',
+      '/images/frame-4722.png',
+      '/images/frame-4723.png',
+      '/images/frame-4724.png'
     ],
     liveUrl: null,
     tags: ['E-commerce', 'UI/UX', 'Accessibility', 'Responsive']

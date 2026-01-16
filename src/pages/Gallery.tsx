@@ -14,19 +14,19 @@ const Gallery = () => {
       title: 'Our Team',
       description: 'Meet the people behind PixelsToWeb',
       icon: Users,
-      image: '/lovable-uploads/person-computer.jpg'
+      image: '/images/person-computer.jpg'
     },
     {
       title: 'Our Workspace',
       description: 'Where accessibility innovation happens',
       icon: Briefcase,
-      image: '/lovable-uploads/operating-computer-anime.jpg'
+      image: '/images/operating-computer-anime.jpg'
     },
     {
       title: 'Client Work',
       description: 'Projects that make a difference',
       icon: Coffee,
-      image: '/lovable-uploads/dark-shades-using-computer.jpg'
+      image: '/images/dark-shades-using-computer.jpg'
     }
   ];
 

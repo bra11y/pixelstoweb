@@ -11,7 +11,7 @@ Allow: /testimonials
 Allow: /resources
 
 # Allow static assets
-Allow: /lovable-uploads/
+Allow: /images/
 Allow: /*.css
 Allow: /*.js
 Allow: /*.png

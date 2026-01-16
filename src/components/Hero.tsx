@@ -84,7 +84,7 @@ const Hero = () => {
           <div
             className="absolute inset-0 transition-opacity duration-1000 ease-in-out"
             style={{
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/lovable-uploads/person-computer.jpg')`,
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/images/person-computer.jpg')`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               opacity: currentSlide % 3 === 0 ? 1 : 0
@@ -93,7 +93,7 @@ const Hero = () => {
           <div
             className="absolute inset-0 transition-opacity duration-1000 ease-in-out"
             style={{
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/lovable-uploads/operating-computer-anime.jpg')`,
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/images/operating-computer-anime.jpg')`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               opacity: currentSlide % 3 === 1 ? 1 : 0
@@ -102,7 +102,7 @@ const Hero = () => {
           <div
             className="absolute inset-0 transition-opacity duration-1000 ease-in-out"
             style={{
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/lovable-uploads/dark-shades-using-computer.jpg')`,
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/images/dark-shades-using-computer.jpg')`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               opacity: currentSlide % 3 === 2 ? 1 : 0

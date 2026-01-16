@@ -32,7 +32,7 @@ const MinimalHero = () => {
         {/* Featured Image */}
         <div className="relative rounded-[32px] overflow-hidden w-full aspect-[4/5] md:aspect-[16/10]">
           <img
-            src="/lovable-uploads/person-computer.jpg"
+            src="/images/person-computer.jpg"
             alt="Team working on accessible web design"
             className="w-full h-full object-cover"
           />

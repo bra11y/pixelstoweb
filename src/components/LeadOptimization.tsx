@@ -74,9 +74,9 @@ const LeadOptimization = ({ onClose, variant = 'time-based' }: LeadOptimizationP
 
   // Background images for different variants
   const backgroundImages = {
-    'exit-intent': '/lovable-uploads/anime-hearing.jpg',
-    'time-based': '/lovable-uploads/person-computer.jpg', 
-    'scroll-based': '/lovable-uploads/operating-computer-anime.jpg'
+    'exit-intent': '/images/anime-hearing.jpg',
+    'time-based': '/images/person-computer.jpg',
+    'scroll-based': '/images/operating-computer-anime.jpg'
   };
 
   return (

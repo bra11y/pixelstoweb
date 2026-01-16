@@ -46,7 +46,7 @@ const FeatureHero = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="/lovable-uploads/hearing-aid-person-face.jpg"
+          src="/images/hearing-aid-person-face.jpg"
           alt=""
           className="w-full h-full object-cover"
         />

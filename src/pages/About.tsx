@@ -125,7 +125,7 @@ const About = () => {
               {/* Image Card */}
               <div className="relative rounded-[32px] overflow-hidden h-[500px]">
                 <img
-                  src="/lovable-uploads/person-computer.jpg"
+                  src="/images/person-computer.jpg"
                   alt="Team working on accessible design"
                   className="w-full h-full object-cover"
                 />

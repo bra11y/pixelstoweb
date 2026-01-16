@@ -61,7 +61,7 @@ const NewHero = () => {
             <div className="relative z-10 max-w-2xl mx-auto">
               <div className="bg-white rounded-2xl shadow-2xl p-2 border border-gray-200">
                 <img
-                  src="/lovable-uploads/65d2f673-94d8-4834-a9ac-47b711e0832e.png"
+                  src="/images/65d2f673-94d8-4834-a9ac-47b711e0832e.png"
                   alt="Inclusive digital workspace featuring a white desk with computer, braille device, and wheelchair accessibility"
                   className="w-full h-auto rounded-xl"
                   loading="eager"
