@@ -130,27 +130,17 @@ const Header = () => {
         
         <nav className="container-tight mx-auto py-4 px-6" aria-label="Main Navigation">
           <div className="flex items-center justify-between">
-            <Link 
-              to="/" 
-              className="flex items-center space-x-3" 
+            <Link
+              to="/"
+              className="flex items-center"
               aria-label="PixelsToWeb - Home"
               onClick={closeMenu}
             >
-              <div className="flex flex-col">
-                <span 
-                  className="text-xl font-bold drop-shadow-md transition-colors duration-300 whitespace-nowrap"
-                  style={{ 
-                    fontFamily: "'Space Grotesk', sans-serif",
-                    fontWeight: 700
-                  }}
-                >
-                  <span style={{ color: '#FFFFFF' }}>Pixelto</span>
-                  <span style={{ color: '#14919B' }}>web</span>
-                </span>
-                <span className="text-xs uppercase tracking-wide text-white/80 drop-shadow-sm transition-colors duration-300">
-                  Transforming Ideas Into Digital Experiences
-                </span>
-              </div>
+              <img
+                src="/lovable-uploads/PTW-re.png"
+                alt="PixelsToWeb"
+                className="h-8 w-auto"
+              />
             </Link>
 
             <div className="hidden md:flex items-center justify-between flex-1">
