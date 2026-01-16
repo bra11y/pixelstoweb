@@ -1,0 +1,86 @@
+User-agent: *
+Allow: /
+
+# Allow important pages
+Allow: /services
+Allow: /about
+Allow: /portfolio
+Allow: /contact
+Allow: /blog
+Allow: /testimonials
+Allow: /resources
+
+# Allow static assets
+Allow: /lovable-uploads/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.webp
+Allow: /*.ico
+Allow: /*.woff
+Allow: /*.woff2
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.env
+Disallow: /api/
+Disallow: /temp/
+Disallow: /tmp/
+
+# Crawl delay (optional - be respectful to server resources)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://pixelstoweb.com/sitemap.xml
+
+# Additional sitemaps
+Sitemap: https://pixelstoweb.com/sitemap-pages.xml
+Sitemap: https://pixelstoweb.com/sitemap-blog.xml
+
+# Optimize crawling
+Crawl-delay: 1
+
+# Disallow admin areas if any
+Disallow: /admin/
+Disallow: /.env
+Disallow: /node_modules/
+
+# Allow important files
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /assets/
+
+# LLMs.txt for AI crawlers
+# https://pixelstoweb.com/llms.txt
+
+# Important pages for crawling
+Allow: /services
+Allow: /portfolio
+Allow: /about
+Allow: /blog
+Allow: /contact
+Allow: /resources
+
+# Accessibility-focused content
+Allow: /services/accessibility-auditing
+Allow: /services/pdf-remediation
+Allow: /services/wordpress-development
+Allow: /services/shopify-development
+Allow: /services/frontend-development
+Allow: /services/ui-ux-design
+
+# Blog categories
+Allow: /blog/accessibility
+Allow: /blog/wordpress
+Allow: /blog/shopify
+Allow: /blog/development
+Allow: /blog/design
+
+# Crawl delay (optional - be respectful to servers)
+Crawl-delay: 1 
